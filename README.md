@@ -19,5 +19,5 @@ pip install -r requirements.txt
 
 To get started, clone the repository:
 
-git clone https://github.com/your-username/house-price-prediction.git
+git clone https://github.com/amith7025/house-price-prediction.git
 cd house-price-prediction
